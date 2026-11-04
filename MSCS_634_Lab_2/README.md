@@ -2,10 +2,6 @@
 
 In this lab, I compare two models, KNN and Radius Neighbors (RNN), on the Wine dataset. It has 178 wines, 13 chemical measurements for each, and 3 wine types. I check how the choice of k and radius changes accuracy.
 
-## Files
-
-- MSCS_634_Lab_2.ipynb: the notebook with all steps and plots
-- requirements.txt: Python packages used
 
 ## Results
 
